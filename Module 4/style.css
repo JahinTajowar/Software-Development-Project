@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(42, 42, 38, 0.898);
+}
+.bar{
+    color: aliceblue;
+    list-style-type: none;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    padding-right: 40px;
+
+}
+.logo{
+    height: 13vh;
+    /* width: 15vw; */
+}
+.navi{
+    display: flex;
+    /* background-color: rgb(23, 76, 76); */
+}
+.resume-btn
+{
+    height: 5vh;
+    
+}
